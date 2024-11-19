@@ -2,14 +2,14 @@
   <div
     class="favorites-container p-10 bg-gray-900 bg-opacity-90 rounded-lg mt-20 text-white text-center w-11/12 max-w-7xl mx-auto"
   >
-    <h1 class="text-4xl font-extrabold mb-8">Favorites NFT</h1>
+    <h1 class="text-4xl font-extrabold mb-8">Favorite Clothes</h1>
 
-    <!-- Якщо немає улюблених товарів -->
+
     <div v-if="favorites.length === 0" class="no-favorites text-xl font-semibold text-gray-400">
       Немає улюблених товарів.
     </div>
 
-    <!-- Список улюблених товарів -->
+
     <div class="product-list grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
       <div
         v-for="product in favorites"

@@ -3,11 +3,11 @@
     <Header @login="toggleAuthForm" />
 
     <div class="main-content flex items-center justify-between px-10 py-16 h-screen">
-      <!-- Основний контент сторінки -->
+
       <div class="text-content max-w-lg">
         <h1 class="text-4xl font-bold mb-4">Discover and Find Your Own Fashion!</h1>
         <p class="mb-6 text-gray-300">
-          Check out the unique and limited edition digital artwork available as NFTs on our
+          Check out the unique and limited edition of clothes on our
           platform.
         </p>
         <button

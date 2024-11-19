@@ -2,9 +2,9 @@
   <div
     class="shop-container p-10 bg-gray-900 bg-opacity-90 rounded-lg mt-20 text-white text-center w-11/12 max-w-7xl mx-auto"
   >
-    <h1 class="text-4xl font-extrabold mb-8">NFT Picture Shop</h1>
+    <h1 class="text-4xl font-extrabold mb-8">SkeletonStore</h1>
 
-    
+
     <div class="filter-container mb-10 p-5 bg-purple-800 bg-opacity-80 rounded-lg shadow-lg">
       <div class="filter-item mb-4">
         <label for="search" class="text-lg font-semibold">Поиск по названию:</label>
